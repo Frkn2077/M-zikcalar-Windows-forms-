@@ -1,0 +1,45 @@
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe.config
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.ResolveComReference.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Form1.resources
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Properties.Resources.resources
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe.config
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.ResolveComReference.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Form1.resources
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Properties.Resources.resources
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe.config
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\Interop.WMPLib.dll
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.ResolveComReference.cache
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Form1.resources
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift_yönlü_bağlı_liste_uygulaması_Müzikçalar_.Properties.Resources.resources
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).exe
+C:\Users\Furkan\Desktop\ödev dosyası\çift yönlü bağlı liste uygulaması(Müzikçalar)12\obj\Debug\çift yönlü bağlı liste uygulaması(Müzikçalar).pdb
